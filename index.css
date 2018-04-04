@@ -1,0 +1,32 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.footer
+{
+  position: fixed;
+  bottom:0;
+  width: 100%;
+  padding:0.5%;
+  color:white;
+  background-color: black;
+}
+.jumbotron
+{
+	background:linear-gradient(#000000,#1a0000);
+	color:white;
+text-align:center;
+}
+.g-signin2{ margin:0px auto auto 500px;
+}
+	
+.button
+{
+  display: none;
+  margin-bottom:100;
+  opacity:100%;
+}
+.image
+{
+	border: solid 2px red;
+}
